@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CrackerKSR
+- 👋 Hi, I’m @KishorJena
 - 👀 I’m interested in JS (and its frameworks like React, RN, Electron, etc), Python(and flask, django) and Android(java, kotlin)
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Web or Mobile Apps or transcoder for animated images
+- 💞️ I’m looking to collaborate on Web or Mobile Apps Developmenet
 - 📫 How to reach me? https://www.twitter.com/heyKSR
 
 <!---
